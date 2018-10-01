@@ -1,0 +1,1531 @@
+,State,Rate,Year,Relationship
+0,Alabama,4.3,2011,Divorce
+1,Alaska,4.8,2011,Divorce
+2,Arizona,3.9,2011,Divorce
+3,Arkansas,5.3,2011,Divorce
+4,California,,2011,Divorce
+5,Colorado,4.4,2011,Divorce
+6,Connecticut,3.1,2011,Divorce
+7,Delaware,3.6,2011,Divorce
+8,District of Columbia,2.9,2011,Divorce
+9,Florida,4.5,2011,Divorce
+10,Georgia,,2011,Divorce
+11,Hawaii,,2011,Divorce
+12,Idaho,4.9,2011,Divorce
+13,Illinois,2.6,2011,Divorce
+14,Indiana,,2011,Divorce
+15,Iowa,2.4,2011,Divorce
+16,Kansas,3.9,2011,Divorce
+17,Kentucky,4.4,2011,Divorce
+18,Louisiana,,2011,Divorce
+19,Maine,4.2,2011,Divorce
+20,Maryland,2.9,2011,Divorce
+21,Massachusetts,2.7,2011,Divorce
+22,Michigan,3.4,2011,Divorce
+23,Minnesota,,2011,Divorce
+24,Mississippi,4.0,2011,Divorce
+25,Missouri,3.9,2011,Divorce
+26,Montana,4.0,2011,Divorce
+27,Nebraska,3.5,2011,Divorce
+28,Nevada,5.6,2011,Divorce
+29,New Hampshire,3.8,2011,Divorce
+30,New Jersey,2.9,2011,Divorce
+31,New Mexico,3.3,2011,Divorce
+32,New York,2.9,2011,Divorce
+33,North Carolina,3.7,2011,Divorce
+34,North Dakota,2.7,2011,Divorce
+35,Ohio,3.4,2011,Divorce
+36,Oklahoma,5.2,2011,Divorce
+37,Oregon,3.8,2011,Divorce
+38,Pennsylvania,2.8,2011,Divorce
+39,Rhode Island,3.2,2011,Divorce
+40,South Carolina,3.2,2011,Divorce
+41,South Dakota,3.3,2011,Divorce
+42,Tennessee,4.3,2011,Divorce
+43,Texas,3.2,2011,Divorce
+44,Utah,3.7,2011,Divorce
+45,Vermont,3.6,2011,Divorce
+46,Virginia,3.8,2011,Divorce
+47,Washington,4.1,2011,Divorce
+48,West Virginia,5.2,2011,Divorce
+49,Wisconsin,2.9,2011,Divorce
+50,Wyoming,4.8,2011,Divorce
+51,Alabama,4.4,2010,Divorce
+52,Alaska,4.7,2010,Divorce
+53,Arizona,3.5,2010,Divorce
+54,Arkansas,5.7,2010,Divorce
+55,California,,2010,Divorce
+56,Colorado,4.3,2010,Divorce
+57,Connecticut,2.9,2010,Divorce
+58,Delaware,3.5,2010,Divorce
+59,District of Columbia,2.8,2010,Divorce
+60,Florida,4.4,2010,Divorce
+61,Georgia,,2010,Divorce
+62,Hawaii,,2010,Divorce
+63,Idaho,5.2,2010,Divorce
+64,Illinois,2.6,2010,Divorce
+65,Indiana,,2010,Divorce
+66,Iowa,2.4,2010,Divorce
+67,Kansas,3.7,2010,Divorce
+68,Kentucky,4.5,2010,Divorce
+69,Louisiana,,2010,Divorce
+70,Maine,4.2,2010,Divorce
+71,Maryland,2.8,2010,Divorce
+72,Massachusetts,2.5,2010,Divorce
+73,Michigan,3.5,2010,Divorce
+74,Minnesota,,2010,Divorce
+75,Mississippi,4.3,2010,Divorce
+76,Missouri,3.9,2010,Divorce
+77,Montana,3.9,2010,Divorce
+78,Nebraska,3.6,2010,Divorce
+79,Nevada,5.9,2010,Divorce
+80,New Hampshire,3.8,2010,Divorce
+81,New Jersey,3.0,2010,Divorce
+82,New Mexico,4.0,2010,Divorce
+83,New York,2.9,2010,Divorce
+84,North Carolina,3.8,2010,Divorce
+85,North Dakota,3.1,2010,Divorce
+86,Ohio,3.4,2010,Divorce
+87,Oklahoma,5.2,2010,Divorce
+88,Oregon,4.0,2010,Divorce
+89,Pennsylvania,2.7,2010,Divorce
+90,Rhode Island,3.2,2010,Divorce
+91,South Carolina,3.1,2010,Divorce
+92,South Dakota,3.4,2010,Divorce
+93,Tennessee,4.2,2010,Divorce
+94,Texas,3.3,2010,Divorce
+95,Utah,3.7,2010,Divorce
+96,Vermont,3.8,2010,Divorce
+97,Virginia,3.8,2010,Divorce
+98,Washington,4.2,2010,Divorce
+99,West Virginia,5.1,2010,Divorce
+100,Wisconsin,3.0,2010,Divorce
+101,Wyoming,5.1,2010,Divorce
+102,Alabama,4.4,2009,Divorce
+103,Alaska,4.4,2009,Divorce
+104,Arizona,3.6,2009,Divorce
+105,Arkansas,5.7,2009,Divorce
+106,California,,2009,Divorce
+107,Colorado,4.3,2009,Divorce
+108,Connecticut,3.0,2009,Divorce
+109,Delaware,3.6,2009,Divorce
+110,District of Columbia,2.7,2009,Divorce
+111,Florida,4.2,2009,Divorce
+112,Georgia,,2009,Divorce
+113,Hawaii,,2009,Divorce
+114,Idaho,5.0,2009,Divorce
+115,Illinois,2.5,2009,Divorce
+116,Indiana,,2009,Divorce
+117,Iowa,2.4,2009,Divorce
+118,Kansas,3.6,2009,Divorce
+119,Kentucky,4.6,2009,Divorce
+120,Louisiana,,2009,Divorce
+121,Maine,4.1,2009,Divorce
+122,Maryland,2.8,2009,Divorce
+123,Massachusetts,2.2,2009,Divorce
+124,Michigan,3.3,2009,Divorce
+125,Minnesota,,2009,Divorce
+126,Mississippi,4.1,2009,Divorce
+127,Missouri,3.8,2009,Divorce
+128,Montana,4.0,2009,Divorce
+129,Nebraska,3.4,2009,Divorce
+130,Nevada,6.6,2009,Divorce
+131,New Hampshire,3.7,2009,Divorce
+132,New Jersey,2.7,2009,Divorce
+133,New Mexico,3.9,2009,Divorce
+134,New York,2.6,2009,Divorce
+135,North Carolina,3.8,2009,Divorce
+136,North Dakota,2.8,2009,Divorce
+137,Ohio,3.3,2009,Divorce
+138,Oklahoma,4.8,2009,Divorce
+139,Oregon,3.9,2009,Divorce
+140,Pennsylvania,2.7,2009,Divorce
+141,Rhode Island,3.0,2009,Divorce
+142,South Carolina,3.0,2009,Divorce
+143,South Dakota,3.3,2009,Divorce
+144,Tennessee,3.9,2009,Divorce
+145,Texas,3.3,2009,Divorce
+146,Utah,3.7,2009,Divorce
+147,Vermont,3.5,2009,Divorce
+148,Virginia,3.7,2009,Divorce
+149,Washington,3.9,2009,Divorce
+150,West Virginia,5.1,2009,Divorce
+151,Wisconsin,2.9,2009,Divorce
+152,Wyoming,5.1,2009,Divorce
+153,Alabama,4.3,2008,Divorce
+154,Alaska,4.4,2008,Divorce
+155,Arizona,3.8,2008,Divorce
+156,Arkansas,5.5,2008,Divorce
+157,California,,2008,Divorce
+158,Colorado,4.3,2008,Divorce
+159,Connecticut,3.4,2008,Divorce
+160,Delaware,3.5,2008,Divorce
+161,District of Columbia,2.7,2008,Divorce
+162,Florida,4.3,2008,Divorce
+163,Georgia,,2008,Divorce
+164,Hawaii,,2008,Divorce
+165,Idaho,4.8,2008,Divorce
+166,Illinois,2.5,2008,Divorce
+167,Indiana,,2008,Divorce
+168,Iowa,2.6,2008,Divorce
+169,Kansas,3.5,2008,Divorce
+170,Kentucky,4.6,2008,Divorce
+171,Louisiana,,2008,Divorce
+172,Maine,4.2,2008,Divorce
+173,Maryland,2.8,2008,Divorce
+174,Massachusetts,2.0,2008,Divorce
+175,Michigan,3.4,2008,Divorce
+176,Minnesota,,2008,Divorce
+177,Mississippi,4.3,2008,Divorce
+178,Missouri,3.7,2008,Divorce
+179,Montana,4.1,2008,Divorce
+180,Nebraska,3.3,2008,Divorce
+181,Nevada,6.4,2008,Divorce
+182,New Hampshire,3.9,2008,Divorce
+183,New Jersey,3.0,2008,Divorce
+184,New Mexico,4.1,2008,Divorce
+185,New York,2.8,2008,Divorce
+186,North Carolina,3.8,2008,Divorce
+187,North Dakota,2.9,2008,Divorce
+188,Ohio,3.3,2008,Divorce
+189,Oklahoma,5.3,2008,Divorce
+190,Oregon,3.9,2008,Divorce
+191,Pennsylvania,2.7,2008,Divorce
+192,Rhode Island,2.7,2008,Divorce
+193,South Carolina,2.8,2008,Divorce
+194,South Dakota,3.1,2008,Divorce
+195,Tennessee,4.2,2008,Divorce
+196,Texas,3.3,2008,Divorce
+197,Utah,3.8,2008,Divorce
+198,Vermont,3.6,2008,Divorce
+199,Virginia,3.8,2008,Divorce
+200,Washington,3.9,2008,Divorce
+201,West Virginia,4.8,2008,Divorce
+202,Wisconsin,3.0,2008,Divorce
+203,Wyoming,4.9,2008,Divorce
+204,Alabama,4.5,2007,Divorce
+205,Alaska,4.3,2007,Divorce
+206,Arizona,4.0,2007,Divorce
+207,Arkansas,5.9,2007,Divorce
+208,California,,2007,Divorce
+209,Colorado,4.4,2007,Divorce
+210,Connecticut,3.2,2007,Divorce
+211,Delaware,3.7,2007,Divorce
+212,District of Columbia,1.7,2007,Divorce
+213,Florida,4.6,2007,Divorce
+214,Georgia,,2007,Divorce
+215,Hawaii,,2007,Divorce
+216,Idaho,4.9,2007,Divorce
+217,Illinois,2.6,2007,Divorce
+218,Indiana,,2007,Divorce
+219,Iowa,2.5,2007,Divorce
+220,Kansas,3.4,2007,Divorce
+221,Kentucky,4.6,2007,Divorce
+222,Louisiana,,2007,Divorce
+223,Maine,4.2,2007,Divorce
+224,Maryland,2.9,2007,Divorce
+225,Massachusetts,2.3,2007,Divorce
+226,Michigan,3.4,2007,Divorce
+227,Minnesota,,2007,Divorce
+228,Mississippi,4.5,2007,Divorce
+229,Missouri,3.8,2007,Divorce
+230,Montana,4.0,2007,Divorce
+231,Nebraska,3.4,2007,Divorce
+232,Nevada,6.4,2007,Divorce
+233,New Hampshire,3.8,2007,Divorce
+234,New Jersey,3.0,2007,Divorce
+235,New Mexico,4.2,2007,Divorce
+236,New York,2.9,2007,Divorce
+237,North Carolina,4.0,2007,Divorce
+238,North Dakota,2.9,2007,Divorce
+239,Ohio,3.4,2007,Divorce
+240,Oklahoma,5.2,2007,Divorce
+241,Oregon,3.9,2007,Divorce
+242,Pennsylvania,2.8,2007,Divorce
+243,Rhode Island,2.8,2007,Divorce
+244,South Carolina,3.0,2007,Divorce
+245,South Dakota,3.1,2007,Divorce
+246,Tennessee,4.3,2007,Divorce
+247,Texas,3.3,2007,Divorce
+248,Utah,3.7,2007,Divorce
+249,Vermont,3.6,2007,Divorce
+250,Virginia,3.8,2007,Divorce
+251,Washington,4.0,2007,Divorce
+252,West Virginia,5.1,2007,Divorce
+253,Wisconsin,2.9,2007,Divorce
+254,Wyoming,4.9,2007,Divorce
+255,Alabama,4.9,2006,Divorce
+256,Alaska,4.2,2006,Divorce
+257,Arizona,4.0,2006,Divorce
+258,Arkansas,5.8,2006,Divorce
+259,California,,2006,Divorce
+260,Colorado,4.5,2006,Divorce
+261,Connecticut,3.1,2006,Divorce
+262,Delaware,3.8,2006,Divorce
+263,District of Columbia,2.1,2006,Divorce
+264,Florida,4.7,2006,Divorce
+265,Georgia,,2006,Divorce
+266,Hawaii,,2006,Divorce
+267,Idaho,5.0,2006,Divorce
+268,Illinois,2.5,2006,Divorce
+269,Indiana,,2006,Divorce
+270,Iowa,2.7,2006,Divorce
+271,Kansas,3.1,2006,Divorce
+272,Kentucky,5.0,2006,Divorce
+273,Louisiana,,2006,Divorce
+274,Maine,4.2,2006,Divorce
+275,Maryland,3.0,2006,Divorce
+276,Massachusetts,2.3,2006,Divorce
+277,Michigan,3.5,2006,Divorce
+278,Minnesota,,2006,Divorce
+279,Mississippi,4.8,2006,Divorce
+280,Missouri,3.8,2006,Divorce
+281,Montana,4.4,2006,Divorce
+282,Nebraska,3.4,2006,Divorce
+283,Nevada,6.7,2006,Divorce
+284,New Hampshire,4.1,2006,Divorce
+285,New Jersey,3.0,2006,Divorce
+286,New Mexico,4.3,2006,Divorce
+287,New York,3.1,2006,Divorce
+288,North Carolina,4.0,2006,Divorce
+289,North Dakota,3.0,2006,Divorce
+290,Ohio,3.5,2006,Divorce
+291,Oklahoma,5.3,2006,Divorce
+292,Oregon,4.0,2006,Divorce
+293,Pennsylvania,2.8,2006,Divorce
+294,Rhode Island,3.0,2006,Divorce
+295,South Carolina,2.9,2006,Divorce
+296,South Dakota,3.2,2006,Divorce
+297,Tennessee,4.6,2006,Divorce
+298,Texas,3.4,2006,Divorce
+299,Utah,3.9,2006,Divorce
+300,Vermont,3.8,2006,Divorce
+301,Virginia,4.0,2006,Divorce
+302,Washington,4.1,2006,Divorce
+303,West Virginia,5.0,2006,Divorce
+304,Wisconsin,3.0,2006,Divorce
+305,Wyoming,5.1,2006,Divorce
+306,Alabama,4.9,2005,Divorce
+307,Alaska,4.3,2005,Divorce
+308,Arizona,4.2,2005,Divorce
+309,Arkansas,6.0,2005,Divorce
+310,California,,2005,Divorce
+311,Colorado,4.4,2005,Divorce
+312,Connecticut,3.0,2005,Divorce
+313,Delaware,3.8,2005,Divorce
+314,District of Columbia,2.0,2005,Divorce
+315,Florida,4.6,2005,Divorce
+316,Georgia,,2005,Divorce
+317,Hawaii,,2005,Divorce
+318,Idaho,5.0,2005,Divorce
+319,Illinois,2.6,2005,Divorce
+320,Indiana,,2005,Divorce
+321,Iowa,2.7,2005,Divorce
+322,Kansas,3.1,2005,Divorce
+323,Kentucky,4.6,2005,Divorce
+324,Louisiana,,2005,Divorce
+325,Maine,4.1,2005,Divorce
+326,Maryland,3.1,2005,Divorce
+327,Massachusetts,2.2,2005,Divorce
+328,Michigan,3.4,2005,Divorce
+329,Minnesota,,2005,Divorce
+330,Mississippi,4.4,2005,Divorce
+331,Missouri,3.6,2005,Divorce
+332,Montana,4.5,2005,Divorce
+333,Nebraska,3.3,2005,Divorce
+334,Nevada,7.4,2005,Divorce
+335,New Hampshire,3.9,2005,Divorce
+336,New Jersey,2.9,2005,Divorce
+337,New Mexico,4.6,2005,Divorce
+338,New York,2.9,2005,Divorce
+339,North Carolina,4.1,2005,Divorce
+340,North Dakota,2.9,2005,Divorce
+341,Ohio,3.5,2005,Divorce
+342,Oklahoma,5.6,2005,Divorce
+343,Oregon,4.2,2005,Divorce
+344,Pennsylvania,2.3,2005,Divorce
+345,Rhode Island,3.0,2005,Divorce
+346,South Carolina,2.9,2005,Divorce
+347,South Dakota,2.8,2005,Divorce
+348,Tennessee,4.6,2005,Divorce
+349,Texas,3.3,2005,Divorce
+350,Utah,4.1,2005,Divorce
+351,Vermont,3.6,2005,Divorce
+352,Virginia,4.0,2005,Divorce
+353,Washington,4.3,2005,Divorce
+354,West Virginia,5.1,2005,Divorce
+355,Wisconsin,2.9,2005,Divorce
+356,Wyoming,5.2,2005,Divorce
+357,Alabama,4.9,2004,Divorce
+358,Alaska,4.3,2004,Divorce
+359,Arizona,4.3,2004,Divorce
+360,Arkansas,6.1,2004,Divorce
+361,California,,2004,Divorce
+362,Colorado,4.4,2004,Divorce
+363,Connecticut,3.1,2004,Divorce
+364,Delaware,3.7,2004,Divorce
+365,District of Columbia,1.8,2004,Divorce
+366,Florida,4.7,2004,Divorce
+367,Georgia,,2004,Divorce
+368,Hawaii,,2004,Divorce
+369,Idaho,5.0,2004,Divorce
+370,Illinois,2.6,2004,Divorce
+371,Indiana,,2004,Divorce
+372,Iowa,2.8,2004,Divorce
+373,Kansas,3.3,2004,Divorce
+374,Kentucky,4.9,2004,Divorce
+375,Louisiana,,2004,Divorce
+376,Maine,4.3,2004,Divorce
+377,Maryland,3.2,2004,Divorce
+378,Massachusetts,2.2,2004,Divorce
+379,Michigan,3.5,2004,Divorce
+380,Minnesota,2.8,2004,Divorce
+381,Mississippi,4.5,2004,Divorce
+382,Missouri,3.8,2004,Divorce
+383,Montana,3.8,2004,Divorce
+384,Nebraska,3.4,2004,Divorce
+385,Nevada,6.3,2004,Divorce
+386,New Hampshire,4.0,2004,Divorce
+387,New Jersey,3.0,2004,Divorce
+388,New Mexico,4.6,2004,Divorce
+389,New York,3.0,2004,Divorce
+390,North Carolina,4.2,2004,Divorce
+391,North Dakota,3.1,2004,Divorce
+392,Ohio,3.6,2004,Divorce
+393,Oklahoma,4.9,2004,Divorce
+394,Oregon,4.1,2004,Divorce
+395,Pennsylvania,3.0,2004,Divorce
+396,Rhode Island,3.1,2004,Divorce
+397,South Carolina,3.2,2004,Divorce
+398,South Dakota,3.1,2004,Divorce
+399,Tennessee,4.9,2004,Divorce
+400,Texas,3.6,2004,Divorce
+401,Utah,4.1,2004,Divorce
+402,Vermont,3.9,2004,Divorce
+403,Virginia,3.9,2004,Divorce
+404,Washington,4.3,2004,Divorce
+405,West Virginia,5.0,2004,Divorce
+406,Wisconsin,3.0,2004,Divorce
+407,Wyoming,5.2,2004,Divorce
+408,Alabama,5.2,2003,Divorce
+409,Alaska,3.9,2003,Divorce
+410,Arizona,4.4,2003,Divorce
+411,Arkansas,6.0,2003,Divorce
+412,California,,2003,Divorce
+413,Colorado,4.3,2003,Divorce
+414,Connecticut,3.2,2003,Divorce
+415,Delaware,3.9,2003,Divorce
+416,District of Columbia,2.0,2003,Divorce
+417,Florida,5.0,2003,Divorce
+418,Georgia,3.2,2003,Divorce
+419,Hawaii,,2003,Divorce
+420,Idaho,5.2,2003,Divorce
+421,Illinois,2.8,2003,Divorce
+422,Indiana,,2003,Divorce
+423,Iowa,2.8,2003,Divorce
+424,Kansas,3.3,2003,Divorce
+425,Kentucky,5.0,2003,Divorce
+426,Louisiana,3.4,2003,Divorce
+427,Maine,4.4,2003,Divorce
+428,Maryland,3.2,2003,Divorce
+429,Massachusetts,2.5,2003,Divorce
+430,Michigan,3.5,2003,Divorce
+431,Minnesota,3.0,2003,Divorce
+432,Mississippi,4.6,2003,Divorce
+433,Missouri,3.9,2003,Divorce
+434,Montana,3.9,2003,Divorce
+435,Nebraska,3.4,2003,Divorce
+436,Nevada,7.3,2003,Divorce
+437,New Hampshire,4.1,2003,Divorce
+438,New Jersey,3.2,2003,Divorce
+439,New Mexico,5.2,2003,Divorce
+440,New York,3.2,2003,Divorce
+441,North Carolina,4.2,2003,Divorce
+442,North Dakota,2.9,2003,Divorce
+443,Ohio,3.7,2003,Divorce
+444,Oklahoma,,2003,Divorce
+445,Oregon,4.3,2003,Divorce
+446,Pennsylvania,3.1,2003,Divorce
+447,Rhode Island,3.1,2003,Divorce
+448,South Carolina,3.3,2003,Divorce
+449,South Dakota,3.0,2003,Divorce
+450,Tennessee,5.0,2003,Divorce
+451,Texas,3.8,2003,Divorce
+452,Utah,4.0,2003,Divorce
+453,Vermont,4.0,2003,Divorce
+454,Virginia,4.0,2003,Divorce
+455,Washington,4.4,2003,Divorce
+456,West Virginia,5.2,2003,Divorce
+457,Wisconsin,3.1,2003,Divorce
+458,Wyoming,5.4,2003,Divorce
+459,Alabama,5.4,2002,Divorce
+460,Alaska,4.6,2002,Divorce
+461,Arizona,4.8,2002,Divorce
+462,Arkansas,6.2,2002,Divorce
+463,California,,2002,Divorce
+464,Colorado,4.7,2002,Divorce
+465,Connecticut,3.3,2002,Divorce
+466,Delaware,3.5,2002,Divorce
+467,District of Columbia,2.4,2002,Divorce
+468,Florida,5.1,2002,Divorce
+469,Georgia,2.5,2002,Divorce
+470,Hawaii,3.7,2002,Divorce
+471,Idaho,5.3,2002,Divorce
+472,Illinois,2.9,2002,Divorce
+473,Indiana,,2002,Divorce
+474,Iowa,3.1,2002,Divorce
+475,Kansas,3.6,2002,Divorce
+476,Kentucky,5.2,2002,Divorce
+477,Louisiana,3.3,2002,Divorce
+478,Maine,4.6,2002,Divorce
+479,Maryland,3.4,2002,Divorce
+480,Massachusetts,2.5,2002,Divorce
+481,Michigan,3.8,2002,Divorce
+482,Minnesota,3.1,2002,Divorce
+483,Mississippi,4.9,2002,Divorce
+484,Missouri,4.0,2002,Divorce
+485,Montana,4.0,2002,Divorce
+486,Nebraska,3.6,2002,Divorce
+487,Nevada,7.1,2002,Divorce
+488,New Hampshire,4.3,2002,Divorce
+489,New Jersey,3.4,2002,Divorce
+490,New Mexico,4.4,2002,Divorce
+491,New York,3.4,2002,Divorce
+492,North Carolina,4.4,2002,Divorce
+493,North Dakota,2.9,2002,Divorce
+494,Ohio,4.0,2002,Divorce
+495,Oklahoma,,2002,Divorce
+496,Oregon,4.6,2002,Divorce
+497,Pennsylvania,3.1,2002,Divorce
+498,Rhode Island,3.2,2002,Divorce
+499,South Carolina,3.4,2002,Divorce
+500,South Dakota,3.3,2002,Divorce
+501,Tennessee,5.1,2002,Divorce
+502,Texas,3.9,2002,Divorce
+503,Utah,4.1,2002,Divorce
+504,Vermont,4.2,2002,Divorce
+505,Virginia,4.2,2002,Divorce
+506,Washington,4.6,2002,Divorce
+507,West Virginia,5.2,2002,Divorce
+508,Wisconsin,3.2,2002,Divorce
+509,Wyoming,5.4,2002,Divorce
+510,Alabama,5.4,2001,Divorce
+511,Alaska,4.3,2001,Divorce
+512,Arizona,4.0,2001,Divorce
+513,Arkansas,6.2,2001,Divorce
+514,California,,2001,Divorce
+515,Colorado,4.7,2001,Divorce
+516,Connecticut,3.2,2001,Divorce
+517,Delaware,3.9,2001,Divorce
+518,District of Columbia,2.9,2001,Divorce
+519,Florida,5.2,2001,Divorce
+520,Georgia,3.1,2001,Divorce
+521,Hawaii,4.0,2001,Divorce
+522,Idaho,5.3,2001,Divorce
+523,Illinois,3.2,2001,Divorce
+524,Indiana,,2001,Divorce
+525,Iowa,3.3,2001,Divorce
+526,Kansas,3.4,2001,Divorce
+527,Kentucky,5.1,2001,Divorce
+528,Louisiana,,2001,Divorce
+529,Maine,4.7,2001,Divorce
+530,Maryland,3.0,2001,Divorce
+531,Massachusetts,2.4,2001,Divorce
+532,Michigan,3.9,2001,Divorce
+533,Minnesota,3.2,2001,Divorce
+534,Mississippi,5.0,2001,Divorce
+535,Missouri,4.2,2001,Divorce
+536,Montana,4.2,2001,Divorce
+537,Nebraska,3.6,2001,Divorce
+538,Nevada,6.3,2001,Divorce
+539,New Hampshire,4.4,2001,Divorce
+540,New Jersey,3.4,2001,Divorce
+541,New Mexico,4.9,2001,Divorce
+542,New York,3.5,2001,Divorce
+543,North Carolina,4.6,2001,Divorce
+544,North Dakota,2.9,2001,Divorce
+545,Ohio,4.0,2001,Divorce
+546,Oklahoma,,2001,Divorce
+547,Oregon,4.8,2001,Divorce
+548,Pennsylvania,3.1,2001,Divorce
+549,Rhode Island,3.2,2001,Divorce
+550,South Carolina,3.6,2001,Divorce
+551,South Dakota,3.3,2001,Divorce
+552,Tennessee,5.2,2001,Divorce
+553,Texas,4.0,2001,Divorce
+554,Utah,4.2,2001,Divorce
+555,Vermont,4.3,2001,Divorce
+556,Virginia,4.2,2001,Divorce
+557,Washington,4.5,2001,Divorce
+558,West Virginia,5.2,2001,Divorce
+559,Wisconsin,3.2,2001,Divorce
+560,Wyoming,5.8,2001,Divorce
+561,Alabama,5.5,2000,Divorce
+562,Alaska,3.9,2000,Divorce
+563,Arizona,4.6,2000,Divorce
+564,Arkansas,6.4,2000,Divorce
+565,California,,2000,Divorce
+566,Colorado,4.7,2000,Divorce
+567,Connecticut,3.3,2000,Divorce
+568,Delaware,3.9,2000,Divorce
+569,District of Columbia,3.2,2000,Divorce
+570,Florida,5.1,2000,Divorce
+571,Georgia,3.3,2000,Divorce
+572,Hawaii,3.9,2000,Divorce
+573,Idaho,5.5,2000,Divorce
+574,Illinois,3.2,2000,Divorce
+575,Indiana,,2000,Divorce
+576,Iowa,3.3,2000,Divorce
+577,Kansas,3.6,2000,Divorce
+578,Kentucky,5.1,2000,Divorce
+579,Louisiana,,2000,Divorce
+580,Maine,5.0,2000,Divorce
+581,Maryland,3.3,2000,Divorce
+582,Massachusetts,2.5,2000,Divorce
+583,Michigan,3.9,2000,Divorce
+584,Minnesota,3.2,2000,Divorce
+585,Mississippi,5.0,2000,Divorce
+586,Missouri,4.5,2000,Divorce
+587,Montana,4.2,2000,Divorce
+588,Nebraska,3.7,2000,Divorce
+589,Nevada,9.9,2000,Divorce
+590,New Hampshire,4.8,2000,Divorce
+591,New Jersey,3.0,2000,Divorce
+592,New Mexico,5.1,2000,Divorce
+593,New York,3.0,2000,Divorce
+594,North Carolina,4.5,2000,Divorce
+595,North Dakota,3.4,2000,Divorce
+596,Ohio,4.2,2000,Divorce
+597,Oklahoma,,2000,Divorce
+598,Oregon,4.8,2000,Divorce
+599,Pennsylvania,3.1,2000,Divorce
+600,Rhode Island,2.9,2000,Divorce
+601,South Carolina,3.8,2000,Divorce
+602,South Dakota,3.5,2000,Divorce
+603,Tennessee,5.9,2000,Divorce
+604,Texas,4.0,2000,Divorce
+605,Utah,4.3,2000,Divorce
+606,Vermont,4.1,2000,Divorce
+607,Virginia,4.3,2000,Divorce
+608,Washington,4.6,2000,Divorce
+609,West Virginia,5.1,2000,Divorce
+610,Wisconsin,3.2,2000,Divorce
+611,Wyoming,5.8,2000,Divorce
+612,Alabama,5.7,1999,Divorce
+613,Alaska,5.0,1999,Divorce
+614,Arizona,4.6,1999,Divorce
+615,Arkansas,6.2,1999,Divorce
+616,California,,1999,Divorce
+617,Colorado,4.8,1999,Divorce
+618,Connecticut,3.0,1999,Divorce
+619,Delaware,4.5,1999,Divorce
+620,District of Columbia,3.6,1999,Divorce
+621,Florida,5.1,1999,Divorce
+622,Georgia,4.1,1999,Divorce
+623,Hawaii,3.8,1999,Divorce
+624,Idaho,5.4,1999,Divorce
+625,Illinois,3.3,1999,Divorce
+626,Indiana,,1999,Divorce
+627,Iowa,3.3,1999,Divorce
+628,Kansas,3.4,1999,Divorce
+629,Kentucky,5.5,1999,Divorce
+630,Louisiana,,1999,Divorce
+631,Maine,5.1,1999,Divorce
+632,Maryland,3.2,1999,Divorce
+633,Massachusetts,2.5,1999,Divorce
+634,Michigan,3.8,1999,Divorce
+635,Minnesota,3.2,1999,Divorce
+636,Mississippi,5.0,1999,Divorce
+637,Missouri,4.4,1999,Divorce
+638,Montana,2.8,1999,Divorce
+639,Nebraska,3.7,1999,Divorce
+640,Nevada,7.8,1999,Divorce
+641,New Hampshire,5.1,1999,Divorce
+642,New Jersey,3.0,1999,Divorce
+643,New Mexico,4.6,1999,Divorce
+644,New York,3.3,1999,Divorce
+645,North Carolina,4.6,1999,Divorce
+646,North Dakota,4.4,1999,Divorce
+647,Ohio,3.9,1999,Divorce
+648,Oklahoma,,1999,Divorce
+649,Oregon,4.6,1999,Divorce
+650,Pennsylvania,3.1,1999,Divorce
+651,Rhode Island,2.7,1999,Divorce
+652,South Carolina,3.8,1999,Divorce
+653,South Dakota,3.7,1999,Divorce
+654,Tennessee,5.8,1999,Divorce
+655,Texas,3.8,1999,Divorce
+656,Utah,4.0,1999,Divorce
+657,Vermont,4.4,1999,Divorce
+658,Virginia,4.4,1999,Divorce
+659,Washington,5.0,1999,Divorce
+660,West Virginia,4.9,1999,Divorce
+661,Wisconsin,3.2,1999,Divorce
+662,Wyoming,5.7,1999,Divorce
+663,Alabama,6.0,1995,Divorce
+664,Alaska,5.0,1995,Divorce
+665,Arizona,6.2,1995,Divorce
+666,Arkansas,6.3,1995,Divorce
+667,California,,1995,Divorce
+668,Colorado,,1995,Divorce
+669,Connecticut,2.9,1995,Divorce
+670,Delaware,5.0,1995,Divorce
+671,District of Columbia,3.2,1995,Divorce
+672,Florida,5.5,1995,Divorce
+673,Georgia,5.1,1995,Divorce
+674,Hawaii,4.6,1995,Divorce
+675,Idaho,5.8,1995,Divorce
+676,Illinois,3.2,1995,Divorce
+677,Indiana,,1995,Divorce
+678,Iowa,3.7,1995,Divorce
+679,Kansas,4.1,1995,Divorce
+680,Kentucky,5.9,1995,Divorce
+681,Louisiana,,1995,Divorce
+682,Maine,4.4,1995,Divorce
+683,Maryland,3.0,1995,Divorce
+684,Massachusetts,2.2,1995,Divorce
+685,Michigan,4.1,1995,Divorce
+686,Minnesota,3.4,1995,Divorce
+687,Mississippi,4.8,1995,Divorce
+688,Missouri,5.0,1995,Divorce
+689,Montana,4.8,1995,Divorce
+690,Nebraska,3.8,1995,Divorce
+691,Nevada,7.8,1995,Divorce
+692,New Hampshire,4.2,1995,Divorce
+693,New Jersey,3.0,1995,Divorce
+694,New Mexico,6.6,1995,Divorce
+695,New York,3.0,1995,Divorce
+696,North Carolina,5.0,1995,Divorce
+697,North Dakota,3.4,1995,Divorce
+698,Ohio,4.3,1995,Divorce
+699,Oklahoma,6.6,1995,Divorce
+700,Oregon,4.7,1995,Divorce
+701,Pennsylvania,3.2,1995,Divorce
+702,Rhode Island,3.6,1995,Divorce
+703,South Carolina,3.9,1995,Divorce
+704,South Dakota,3.9,1995,Divorce
+705,Tennessee,6.2,1995,Divorce
+706,Texas,5.2,1995,Divorce
+707,Utah,4.4,1995,Divorce
+708,Vermont,4.7,1995,Divorce
+709,Virginia,4.3,1995,Divorce
+710,Washington,5.4,1995,Divorce
+711,West Virginia,5.2,1995,Divorce
+712,Wisconsin,3.4,1995,Divorce
+713,Wyoming,6.6,1995,Divorce
+714,Alabama,6.1,1990,Divorce
+715,Alaska,5.5,1990,Divorce
+716,Arizona,6.9,1990,Divorce
+717,Arkansas,6.9,1990,Divorce
+718,California,4.3,1990,Divorce
+719,Colorado,5.5,1990,Divorce
+720,Connecticut,3.2,1990,Divorce
+721,Delaware,4.4,1990,Divorce
+722,District of Columbia,4.5,1990,Divorce
+723,Florida,6.3,1990,Divorce
+724,Georgia,5.5,1990,Divorce
+725,Hawaii,4.6,1990,Divorce
+726,Idaho,6.5,1990,Divorce
+727,Illinois,3.8,1990,Divorce
+728,Indiana,,1990,Divorce
+729,Iowa,3.9,1990,Divorce
+730,Kansas,5.0,1990,Divorce
+731,Kentucky,5.8,1990,Divorce
+732,Louisiana,,1990,Divorce
+733,Maine,4.3,1990,Divorce
+734,Maryland,3.4,1990,Divorce
+735,Massachusetts,2.8,1990,Divorce
+736,Michigan,4.3,1990,Divorce
+737,Minnesota,3.5,1990,Divorce
+738,Mississippi,5.5,1990,Divorce
+739,Missouri,5.1,1990,Divorce
+740,Montana,5.1,1990,Divorce
+741,Nebraska,4.0,1990,Divorce
+742,Nevada,11.4,1990,Divorce
+743,New Hampshire,4.7,1990,Divorce
+744,New Jersey,3.0,1990,Divorce
+745,New Mexico,4.9,1990,Divorce
+746,New York,3.2,1990,Divorce
+747,North Carolina,5.1,1990,Divorce
+748,North Dakota,3.6,1990,Divorce
+749,Ohio,4.7,1990,Divorce
+750,Oklahoma,7.7,1990,Divorce
+751,Oregon,5.5,1990,Divorce
+752,Pennsylvania,3.3,1990,Divorce
+753,Rhode Island,3.7,1990,Divorce
+754,South Carolina,4.5,1990,Divorce
+755,South Dakota,3.7,1990,Divorce
+756,Tennessee,6.5,1990,Divorce
+757,Texas,5.5,1990,Divorce
+758,Utah,5.1,1990,Divorce
+759,Vermont,4.5,1990,Divorce
+760,Virginia,4.4,1990,Divorce
+761,Washington,5.9,1990,Divorce
+762,West Virginia,5.3,1990,Divorce
+763,Wisconsin,3.6,1990,Divorce
+764,Wyoming,6.6,1990,Divorce
+765,Alabama,8.4,2011,Marriage
+766,Alaska,7.8,2011,Marriage
+767,Arizona,5.7,2011,Marriage
+768,Arkansas,10.4,2011,Marriage
+769,California,5.8,2011,Marriage
+770,Colorado,7.0,2011,Marriage
+771,Connecticut,5.5,2011,Marriage
+772,Delaware,5.2,2011,Marriage
+773,District of Columbia,8.7,2011,Marriage
+774,Florida,7.4,2011,Marriage
+775,Georgia,6.6,2011,Marriage
+776,Hawaii,17.6,2011,Marriage
+777,Idaho,8.6,2011,Marriage
+778,Illinois,5.6,2011,Marriage
+779,Indiana,6.8,2011,Marriage
+780,Iowa,6.7,2011,Marriage
+781,Kansas,6.3,2011,Marriage
+782,Kentucky,7.5,2011,Marriage
+783,Louisiana,6.4,2011,Marriage
+784,Maine,7.2,2011,Marriage
+785,Maryland,5.8,2011,Marriage
+786,Massachusetts,5.5,2011,Marriage
+787,Michigan,5.7,2011,Marriage
+788,Minnesota,5.6,2011,Marriage
+789,Mississippi,4.9,2011,Marriage
+790,Missouri,6.6,2011,Marriage
+791,Montana,7.8,2011,Marriage
+792,Nebraska,6.6,2011,Marriage
+793,Nevada,36.9,2011,Marriage
+794,New Hampshire,7.1,2011,Marriage
+795,New Jersey,4.8,2011,Marriage
+796,New Mexico,8.0,2011,Marriage
+797,New York,6.9,2011,Marriage
+798,North Carolina,6.7,2011,Marriage
+799,North Dakota,6.7,2011,Marriage
+800,Ohio,5.9,2011,Marriage
+801,Oklahoma,6.9,2011,Marriage
+802,Oregon,6.6,2011,Marriage
+803,Pennsylvania,5.3,2011,Marriage
+804,Rhode Island,6.0,2011,Marriage
+805,South Carolina,7.2,2011,Marriage
+806,South Dakota,7.5,2011,Marriage
+807,Tennessee,9.0,2011,Marriage
+808,Texas,7.1,2011,Marriage
+809,Utah,8.6,2011,Marriage
+810,Vermont,8.3,2011,Marriage
+811,Virginia,6.8,2011,Marriage
+812,Washington,6.1,2011,Marriage
+813,West Virginia,7.2,2011,Marriage
+814,Wisconsin,5.3,2011,Marriage
+815,Wyoming,7.8,2011,Marriage
+816,Alabama,8.2,2010,Marriage
+817,Alaska,8.0,2010,Marriage
+818,Arizona,5.9,2010,Marriage
+819,Arkansas,10.8,2010,Marriage
+820,California,5.8,2010,Marriage
+821,Colorado,6.9,2010,Marriage
+822,Connecticut,5.6,2010,Marriage
+823,Delaware,5.2,2010,Marriage
+824,District of Columbia,7.6,2010,Marriage
+825,Florida,7.3,2010,Marriage
+826,Georgia,7.3,2010,Marriage
+827,Hawaii,17.6,2010,Marriage
+828,Idaho,8.8,2010,Marriage
+829,Illinois,5.7,2010,Marriage
+830,Indiana,6.3,2010,Marriage
+831,Iowa,6.9,2010,Marriage
+832,Kansas,6.4,2010,Marriage
+833,Kentucky,7.4,2010,Marriage
+834,Louisiana,6.9,2010,Marriage
+835,Maine,7.1,2010,Marriage
+836,Maryland,5.7,2010,Marriage
+837,Massachusetts,5.6,2010,Marriage
+838,Michigan,5.5,2010,Marriage
+839,Minnesota,5.3,2010,Marriage
+840,Mississippi,4.9,2010,Marriage
+841,Missouri,6.5,2010,Marriage
+842,Montana,7.4,2010,Marriage
+843,Nebraska,6.6,2010,Marriage
+844,Nevada,38.3,2010,Marriage
+845,New Hampshire,7.3,2010,Marriage
+846,New Jersey,5.1,2010,Marriage
+847,New Mexico,7.7,2010,Marriage
+848,New York,6.5,2010,Marriage
+849,North Carolina,6.6,2010,Marriage
+850,North Dakota,6.5,2010,Marriage
+851,Ohio,5.8,2010,Marriage
+852,Oklahoma,7.2,2010,Marriage
+853,Oregon,6.5,2010,Marriage
+854,Pennsylvania,5.3,2010,Marriage
+855,Rhode Island,5.8,2010,Marriage
+856,South Carolina,7.4,2010,Marriage
+857,South Dakota,7.3,2010,Marriage
+858,Tennessee,8.8,2010,Marriage
+859,Texas,7.1,2010,Marriage
+860,Utah,8.5,2010,Marriage
+861,Vermont,9.3,2010,Marriage
+862,Virginia,6.8,2010,Marriage
+863,Washington,6.0,2010,Marriage
+864,West Virginia,6.7,2010,Marriage
+865,Wisconsin,5.3,2010,Marriage
+866,Wyoming,7.6,2010,Marriage
+867,Alabama,8.3,2009,Marriage
+868,Alaska,7.8,2009,Marriage
+869,Arizona,5.6,2009,Marriage
+870,Arkansas,10.7,2009,Marriage
+871,California,5.8,2009,Marriage
+872,Colorado,6.9,2009,Marriage
+873,Connecticut,5.9,2009,Marriage
+874,Delaware,5.4,2009,Marriage
+875,District of Columbia,4.7,2009,Marriage
+876,Florida,7.5,2009,Marriage
+877,Georgia,6.6,2009,Marriage
+878,Hawaii,17.2,2009,Marriage
+879,Idaho,8.9,2009,Marriage
+880,Illinois,5.7,2009,Marriage
+881,Indiana,7.9,2009,Marriage
+882,Iowa,7.0,2009,Marriage
+883,Kansas,6.4,2009,Marriage
+884,Kentucky,7.6,2009,Marriage
+885,Louisiana,7.1,2009,Marriage
+886,Maine,7.1,2009,Marriage
+887,Maryland,5.8,2009,Marriage
+888,Massachusetts,5.6,2009,Marriage
+889,Michigan,5.4,2009,Marriage
+890,Minnesota,5.3,2009,Marriage
+891,Mississippi,4.8,2009,Marriage
+892,Missouri,6.5,2009,Marriage
+893,Montana,7.3,2009,Marriage
+894,Nebraska,6.6,2009,Marriage
+895,Nevada,40.3,2009,Marriage
+896,New Hampshire,6.5,2009,Marriage
+897,New Jersey,5.0,2009,Marriage
+898,New Mexico,5.0,2009,Marriage
+899,New York,6.5,2009,Marriage
+900,North Carolina,6.6,2009,Marriage
+901,North Dakota,6.4,2009,Marriage
+902,Ohio,5.8,2009,Marriage
+903,Oklahoma,6.9,2009,Marriage
+904,Oregon,6.6,2009,Marriage
+905,Pennsylvania,5.3,2009,Marriage
+906,Rhode Island,5.9,2009,Marriage
+907,South Carolina,7.3,2009,Marriage
+908,South Dakota,7.3,2009,Marriage
+909,Tennessee,8.4,2009,Marriage
+910,Texas,7.1,2009,Marriage
+911,Utah,8.4,2009,Marriage
+912,Vermont,8.7,2009,Marriage
+913,Virginia,6.9,2009,Marriage
+914,Washington,6.0,2009,Marriage
+915,West Virginia,6.7,2009,Marriage
+916,Wisconsin,5.3,2009,Marriage
+917,Wyoming,8.0,2009,Marriage
+918,Alabama,8.6,2008,Marriage
+919,Alaska,8.4,2008,Marriage
+920,Arizona,6.0,2008,Marriage
+921,Arkansas,10.6,2008,Marriage
+922,California,6.7,2008,Marriage
+923,Colorado,7.4,2008,Marriage
+924,Connecticut,5.4,2008,Marriage
+925,Delaware,5.5,2008,Marriage
+926,District of Columbia,4.1,2008,Marriage
+927,Florida,8.0,2008,Marriage
+928,Georgia,6.0,2008,Marriage
+929,Hawaii,19.1,2008,Marriage
+930,Idaho,9.5,2008,Marriage
+931,Illinois,5.9,2008,Marriage
+932,Indiana,8.0,2008,Marriage
+933,Iowa,6.5,2008,Marriage
+934,Kansas,6.7,2008,Marriage
+935,Kentucky,7.9,2008,Marriage
+936,Louisiana,6.8,2008,Marriage
+937,Maine,7.4,2008,Marriage
+938,Maryland,5.9,2008,Marriage
+939,Massachusetts,5.7,2008,Marriage
+940,Michigan,5.6,2008,Marriage
+941,Minnesota,5.4,2008,Marriage
+942,Mississippi,5.1,2008,Marriage
+943,Missouri,6.8,2008,Marriage
+944,Montana,7.6,2008,Marriage
+945,Nebraska,6.9,2008,Marriage
+946,Nevada,42.3,2008,Marriage
+947,New Hampshire,6.8,2008,Marriage
+948,New Jersey,5.4,2008,Marriage
+949,New Mexico,4.0,2008,Marriage
+950,New York,6.6,2008,Marriage
+951,North Carolina,6.9,2008,Marriage
+952,North Dakota,6.5,2008,Marriage
+953,Ohio,6.0,2008,Marriage
+954,Oklahoma,7.1,2008,Marriage
+955,Oregon,6.9,2008,Marriage
+956,Pennsylvania,5.5,2008,Marriage
+957,Rhode Island,6.1,2008,Marriage
+958,South Carolina,7.3,2008,Marriage
+959,South Dakota,7.7,2008,Marriage
+960,Tennessee,9.4,2008,Marriage
+961,Texas,7.3,2008,Marriage
+962,Utah,9.0,2008,Marriage
+963,Vermont,7.9,2008,Marriage
+964,Virginia,7.2,2008,Marriage
+965,Washington,6.3,2008,Marriage
+966,West Virginia,7.1,2008,Marriage
+967,Wisconsin,5.6,2008,Marriage
+968,Wyoming,8.6,2008,Marriage
+969,Alabama,8.9,2007,Marriage
+970,Alaska,8.5,2007,Marriage
+971,Arizona,6.4,2007,Marriage
+972,Arkansas,12.0,2007,Marriage
+973,California,6.2,2007,Marriage
+974,Colorado,7.1,2007,Marriage
+975,Connecticut,5.5,2007,Marriage
+976,Delaware,5.7,2007,Marriage
+977,District of Columbia,4.2,2007,Marriage
+978,Florida,8.5,2007,Marriage
+979,Georgia,6.8,2007,Marriage
+980,Hawaii,20.8,2007,Marriage
+981,Idaho,10.0,2007,Marriage
+982,Illinois,6.1,2007,Marriage
+983,Indiana,7.0,2007,Marriage
+984,Iowa,6.6,2007,Marriage
+985,Kansas,6.8,2007,Marriage
+986,Kentucky,7.8,2007,Marriage
+987,Louisiana,7.5,2007,Marriage
+988,Maine,7.4,2007,Marriage
+989,Maryland,6.5,2007,Marriage
+990,Massachusetts,5.9,2007,Marriage
+991,Michigan,5.7,2007,Marriage
+992,Minnesota,5.8,2007,Marriage
+993,Mississippi,5.4,2007,Marriage
+994,Missouri,6.9,2007,Marriage
+995,Montana,7.5,2007,Marriage
+996,Nebraska,6.8,2007,Marriage
+997,Nevada,48.6,2007,Marriage
+998,New Hampshire,7.1,2007,Marriage
+999,New Jersey,5.4,2007,Marriage
+1000,New Mexico,5.6,2007,Marriage
+1001,New York,6.8,2007,Marriage
+1002,North Carolina,7.0,2007,Marriage
+1003,North Dakota,6.6,2007,Marriage
+1004,Ohio,6.1,2007,Marriage
+1005,Oklahoma,7.3,2007,Marriage
+1006,Oregon,7.2,2007,Marriage
+1007,Pennsylvania,5.7,2007,Marriage
+1008,Rhode Island,6.4,2007,Marriage
+1009,South Carolina,7.9,2007,Marriage
+1010,South Dakota,7.8,2007,Marriage
+1011,Tennessee,10.1,2007,Marriage
+1012,Texas,7.4,2007,Marriage
+1013,Utah,9.6,2007,Marriage
+1014,Vermont,8.5,2007,Marriage
+1015,Virginia,7.5,2007,Marriage
+1016,Washington,6.4,2007,Marriage
+1017,West Virginia,7.3,2007,Marriage
+1018,Wisconsin,5.7,2007,Marriage
+1019,Wyoming,9.0,2007,Marriage
+1020,Alabama,9.2,2006,Marriage
+1021,Alaska,8.2,2006,Marriage
+1022,Arizona,6.5,2006,Marriage
+1023,Arkansas,12.4,2006,Marriage
+1024,California,6.3,2006,Marriage
+1025,Colorado,7.2,2006,Marriage
+1026,Connecticut,5.5,2006,Marriage
+1027,Delaware,5.9,2006,Marriage
+1028,District of Columbia,4.0,2006,Marriage
+1029,Florida,8.6,2006,Marriage
+1030,Georgia,7.3,2006,Marriage
+1031,Hawaii,21.9,2006,Marriage
+1032,Idaho,10.1,2006,Marriage
+1033,Illinois,6.2,2006,Marriage
+1034,Indiana,7.0,2006,Marriage
+1035,Iowa,6.7,2006,Marriage
+1036,Kansas,6.8,2006,Marriage
+1037,Kentucky,8.4,2006,Marriage
+1038,Louisiana,,2006,Marriage
+1039,Maine,7.8,2006,Marriage
+1040,Maryland,6.6,2006,Marriage
+1041,Massachusetts,5.9,2006,Marriage
+1042,Michigan,5.9,2006,Marriage
+1043,Minnesota,6.0,2006,Marriage
+1044,Mississippi,5.7,2006,Marriage
+1045,Missouri,6.9,2006,Marriage
+1046,Montana,7.4,2006,Marriage
+1047,Nebraska,6.8,2006,Marriage
+1048,Nevada,52.1,2006,Marriage
+1049,New Hampshire,7.2,2006,Marriage
+1050,New Jersey,5.5,2006,Marriage
+1051,New Mexico,6.8,2006,Marriage
+1052,New York,6.9,2006,Marriage
+1053,North Carolina,7.3,2006,Marriage
+1054,North Dakota,6.7,2006,Marriage
+1055,Ohio,6.3,2006,Marriage
+1056,Oklahoma,7.3,2006,Marriage
+1057,Oregon,7.3,2006,Marriage
+1058,Pennsylvania,5.7,2006,Marriage
+1059,Rhode Island,6.6,2006,Marriage
+1060,South Carolina,7.8,2006,Marriage
+1061,South Dakota,8.0,2006,Marriage
+1062,Tennessee,10.6,2006,Marriage
+1063,Texas,7.6,2006,Marriage
+1064,Utah,9.2,2006,Marriage
+1065,Vermont,8.6,2006,Marriage
+1066,Virginia,7.8,2006,Marriage
+1067,Washington,6.5,2006,Marriage
+1068,West Virginia,7.3,2006,Marriage
+1069,Wisconsin,6.0,2006,Marriage
+1070,Wyoming,9.3,2006,Marriage
+1071,Alabama,9.2,2005,Marriage
+1072,Alaska,8.2,2005,Marriage
+1073,Arizona,6.6,2005,Marriage
+1074,Arkansas,12.9,2005,Marriage
+1075,California,6.4,2005,Marriage
+1076,Colorado,7.6,2005,Marriage
+1077,Connecticut,5.8,2005,Marriage
+1078,Delaware,5.9,2005,Marriage
+1079,District of Columbia,4.1,2005,Marriage
+1080,Florida,8.9,2005,Marriage
+1081,Georgia,7.0,2005,Marriage
+1082,Hawaii,22.6,2005,Marriage
+1083,Idaho,10.5,2005,Marriage
+1084,Illinois,5.9,2005,Marriage
+1085,Indiana,6.9,2005,Marriage
+1086,Iowa,6.9,2005,Marriage
+1087,Kansas,6.8,2005,Marriage
+1088,Kentucky,8.7,2005,Marriage
+1089,Louisiana,8.0,2005,Marriage
+1090,Maine,8.2,2005,Marriage
+1091,Maryland,6.9,2005,Marriage
+1092,Massachusetts,6.2,2005,Marriage
+1093,Michigan,6.1,2005,Marriage
+1094,Minnesota,6.0,2005,Marriage
+1095,Mississippi,5.8,2005,Marriage
+1096,Missouri,7.0,2005,Marriage
+1097,Montana,7.4,2005,Marriage
+1098,Nebraska,7.0,2005,Marriage
+1099,Nevada,57.4,2005,Marriage
+1100,New Hampshire,7.3,2005,Marriage
+1101,New Jersey,5.7,2005,Marriage
+1102,New Mexico,6.6,2005,Marriage
+1103,New York,6.8,2005,Marriage
+1104,North Carolina,7.3,2005,Marriage
+1105,North Dakota,6.8,2005,Marriage
+1106,Ohio,6.5,2005,Marriage
+1107,Oklahoma,7.3,2005,Marriage
+1108,Oregon,7.3,2005,Marriage
+1109,Pennsylvania,5.8,2005,Marriage
+1110,Rhode Island,7.0,2005,Marriage
+1111,South Carolina,8.3,2005,Marriage
+1112,South Dakota,8.4,2005,Marriage
+1113,Tennessee,10.9,2005,Marriage
+1114,Texas,7.8,2005,Marriage
+1115,Utah,9.8,2005,Marriage
+1116,Vermont,8.9,2005,Marriage
+1117,Virginia,8.2,2005,Marriage
+1118,Washington,6.5,2005,Marriage
+1119,West Virginia,7.4,2005,Marriage
+1120,Wisconsin,6.1,2005,Marriage
+1121,Wyoming,9.3,2005,Marriage
+1122,Alabama,9.4,2004,Marriage
+1123,Alaska,8.5,2004,Marriage
+1124,Arizona,6.7,2004,Marriage
+1125,Arkansas,13.4,2004,Marriage
+1126,California,6.4,2004,Marriage
+1127,Colorado,7.4,2004,Marriage
+1128,Connecticut,5.8,2004,Marriage
+1129,Delaware,6.1,2004,Marriage
+1130,District of Columbia,5.2,2004,Marriage
+1131,Florida,9.0,2004,Marriage
+1132,Georgia,7.9,2004,Marriage
+1133,Hawaii,22.6,2004,Marriage
+1134,Idaho,10.8,2004,Marriage
+1135,Illinois,6.2,2004,Marriage
+1136,Indiana,7.8,2004,Marriage
+1137,Iowa,6.9,2004,Marriage
+1138,Kansas,7.0,2004,Marriage
+1139,Kentucky,8.8,2004,Marriage
+1140,Louisiana,8.0,2004,Marriage
+1141,Maine,8.6,2004,Marriage
+1142,Maryland,6.9,2004,Marriage
+1143,Massachusetts,6.5,2004,Marriage
+1144,Michigan,6.2,2004,Marriage
+1145,Minnesota,6.0,2004,Marriage
+1146,Mississippi,6.1,2004,Marriage
+1147,Missouri,7.1,2004,Marriage
+1148,Montana,7.5,2004,Marriage
+1149,Nebraska,7.1,2004,Marriage
+1150,Nevada,62.1,2004,Marriage
+1151,New Hampshire,8.0,2004,Marriage
+1152,New Jersey,5.9,2004,Marriage
+1153,New Mexico,7.4,2004,Marriage
+1154,New York,6.8,2004,Marriage
+1155,North Carolina,7.3,2004,Marriage
+1156,North Dakota,6.9,2004,Marriage
+1157,Ohio,6.6,2004,Marriage
+1158,Oklahoma,6.5,2004,Marriage
+1159,Oregon,8.1,2004,Marriage
+1160,Pennsylvania,5.9,2004,Marriage
+1161,Rhode Island,7.7,2004,Marriage
+1162,South Carolina,8.2,2004,Marriage
+1163,South Dakota,8.4,2004,Marriage
+1164,Tennessee,11.4,2004,Marriage
+1165,Texas,8.0,2004,Marriage
+1166,Utah,9.9,2004,Marriage
+1167,Vermont,9.4,2004,Marriage
+1168,Virginia,8.3,2004,Marriage
+1169,Washington,6.5,2004,Marriage
+1170,West Virginia,7.5,2004,Marriage
+1171,Wisconsin,6.2,2004,Marriage
+1172,Wyoming,9.3,2004,Marriage
+1173,Alabama,9.6,2003,Marriage
+1174,Alaska,8.1,2003,Marriage
+1175,Arizona,6.5,2003,Marriage
+1176,Arkansas,13.4,2003,Marriage
+1177,California,6.1,2003,Marriage
+1178,Colorado,7.8,2003,Marriage
+1179,Connecticut,5.5,2003,Marriage
+1180,Delaware,6.0,2003,Marriage
+1181,District of Columbia,5.1,2003,Marriage
+1182,Florida,9.0,2003,Marriage
+1183,Georgia,7.0,2003,Marriage
+1184,Hawaii,22.0,2003,Marriage
+1185,Idaho,10.9,2003,Marriage
+1186,Illinois,6.5,2003,Marriage
+1187,Indiana,7.1,2003,Marriage
+1188,Iowa,6.9,2003,Marriage
+1189,Kansas,6.9,2003,Marriage
+1190,Kentucky,9.1,2003,Marriage
+1191,Louisiana,8.2,2003,Marriage
+1192,Maine,8.4,2003,Marriage
+1193,Maryland,6.9,2003,Marriage
+1194,Massachusetts,5.6,2003,Marriage
+1195,Michigan,6.3,2003,Marriage
+1196,Minnesota,6.3,2003,Marriage
+1197,Mississippi,6.2,2003,Marriage
+1198,Missouri,7.2,2003,Marriage
+1199,Montana,7.2,2003,Marriage
+1200,Nebraska,7.0,2003,Marriage
+1201,Nevada,63.9,2003,Marriage
+1202,New Hampshire,8.1,2003,Marriage
+1203,New Jersey,5.8,2003,Marriage
+1204,New Mexico,6.9,2003,Marriage
+1205,New York,6.8,2003,Marriage
+1206,North Carolina,7.4,2003,Marriage
+1207,North Dakota,7.1,2003,Marriage
+1208,Ohio,6.7,2003,Marriage
+1209,Oklahoma,,2003,Marriage
+1210,Oregon,7.2,2003,Marriage
+1211,Pennsylvania,5.9,2003,Marriage
+1212,Rhode Island,7.8,2003,Marriage
+1213,South Carolina,9.0,2003,Marriage
+1214,South Dakota,8.4,2003,Marriage
+1215,Tennessee,11.9,2003,Marriage
+1216,Texas,8.1,2003,Marriage
+1217,Utah,10.2,2003,Marriage
+1218,Vermont,9.7,2003,Marriage
+1219,Virginia,8.4,2003,Marriage
+1220,Washington,6.5,2003,Marriage
+1221,West Virginia,7.5,2003,Marriage
+1222,Wisconsin,6.2,2003,Marriage
+1223,Wyoming,9.3,2003,Marriage
+1224,Alabama,9.9,2002,Marriage
+1225,Alaska,8.3,2002,Marriage
+1226,Arizona,6.7,2002,Marriage
+1227,Arkansas,14.3,2002,Marriage
+1228,California,6.2,2002,Marriage
+1229,Colorado,8.0,2002,Marriage
+1230,Connecticut,5.7,2002,Marriage
+1231,Delaware,6.4,2002,Marriage
+1232,District of Columbia,5.1,2002,Marriage
+1233,Florida,9.4,2002,Marriage
+1234,Georgia,6.5,2002,Marriage
+1235,Hawaii,20.8,2002,Marriage
+1236,Idaho,11.0,2002,Marriage
+1237,Illinois,6.6,2002,Marriage
+1238,Indiana,7.9,2002,Marriage
+1239,Iowa,7.0,2002,Marriage
+1240,Kansas,7.3,2002,Marriage
+1241,Kentucky,9.0,2002,Marriage
+1242,Louisiana,8.1,2002,Marriage
+1243,Maine,8.4,2002,Marriage
+1244,Maryland,7.1,2002,Marriage
+1245,Massachusetts,5.9,2002,Marriage
+1246,Michigan,6.5,2002,Marriage
+1247,Minnesota,6.5,2002,Marriage
+1248,Mississippi,6.4,2002,Marriage
+1249,Missouri,7.3,2002,Marriage
+1250,Montana,7.1,2002,Marriage
+1251,Nebraska,7.5,2002,Marriage
+1252,Nevada,67.4,2002,Marriage
+1253,New Hampshire,8.3,2002,Marriage
+1254,New Jersey,6.0,2002,Marriage
+1255,New Mexico,7.9,2002,Marriage
+1256,New York,7.3,2002,Marriage
+1257,North Carolina,7.7,2002,Marriage
+1258,North Dakota,6.8,2002,Marriage
+1259,Ohio,7.0,2002,Marriage
+1260,Oklahoma,,2002,Marriage
+1261,Oregon,7.1,2002,Marriage
+1262,Pennsylvania,5.7,2002,Marriage
+1263,Rhode Island,7.8,2002,Marriage
+1264,South Carolina,9.3,2002,Marriage
+1265,South Dakota,8.8,2002,Marriage
+1266,Tennessee,13.1,2002,Marriage
+1267,Texas,8.4,2002,Marriage
+1268,Utah,10.4,2002,Marriage
+1269,Vermont,9.8,2002,Marriage
+1270,Virginia,8.6,2002,Marriage
+1271,Washington,6.5,2002,Marriage
+1272,West Virginia,8.1,2002,Marriage
+1273,Wisconsin,6.3,2002,Marriage
+1274,Wyoming,9.5,2002,Marriage
+1275,Alabama,9.4,2001,Marriage
+1276,Alaska,8.1,2001,Marriage
+1277,Arizona,7.6,2001,Marriage
+1278,Arkansas,14.3,2001,Marriage
+1279,California,6.5,2001,Marriage
+1280,Colorado,8.2,2001,Marriage
+1281,Connecticut,5.4,2001,Marriage
+1282,Delaware,6.5,2001,Marriage
+1283,District of Columbia,6.2,2001,Marriage
+1284,Florida,9.3,2001,Marriage
+1285,Georgia,6.1,2001,Marriage
+1286,Hawaii,19.6,2001,Marriage
+1287,Idaho,11.2,2001,Marriage
+1288,Illinois,7.2,2001,Marriage
+1289,Indiana,7.9,2001,Marriage
+1290,Iowa,7.1,2001,Marriage
+1291,Kansas,7.5,2001,Marriage
+1292,Kentucky,9.0,2001,Marriage
+1293,Louisiana,8.4,2001,Marriage
+1294,Maine,8.6,2001,Marriage
+1295,Maryland,7.0,2001,Marriage
+1296,Massachusetts,6.2,2001,Marriage
+1297,Michigan,6.7,2001,Marriage
+1298,Minnesota,6.6,2001,Marriage
+1299,Mississippi,6.5,2001,Marriage
+1300,Missouri,7.5,2001,Marriage
+1301,Montana,7.1,2001,Marriage
+1302,Nebraska,7.9,2001,Marriage
+1303,Nevada,69.6,2001,Marriage
+1304,New Hampshire,8.5,2001,Marriage
+1305,New Jersey,6.4,2001,Marriage
+1306,New Mexico,7.6,2001,Marriage
+1307,New York,7.6,2001,Marriage
+1308,North Carolina,7.4,2001,Marriage
+1309,North Dakota,6.5,2001,Marriage
+1310,Ohio,7.2,2001,Marriage
+1311,Oklahoma,,2001,Marriage
+1312,Oregon,7.5,2001,Marriage
+1313,Pennsylvania,5.8,2001,Marriage
+1314,Rhode Island,8.1,2001,Marriage
+1315,South Carolina,9.9,2001,Marriage
+1316,South Dakota,8.9,2001,Marriage
+1317,Tennessee,13.5,2001,Marriage
+1318,Texas,9.1,2001,Marriage
+1319,Utah,10.2,2001,Marriage
+1320,Vermont,9.8,2001,Marriage
+1321,Virginia,8.8,2001,Marriage
+1322,Washington,7.0,2001,Marriage
+1323,West Virginia,7.9,2001,Marriage
+1324,Wisconsin,6.5,2001,Marriage
+1325,Wyoming,10.0,2001,Marriage
+1326,Alabama,10.1,2000,Marriage
+1327,Alaska,8.9,2000,Marriage
+1328,Arizona,7.5,2000,Marriage
+1329,Arkansas,15.4,2000,Marriage
+1330,California,5.8,2000,Marriage
+1331,Colorado,8.3,2000,Marriage
+1332,Connecticut,5.7,2000,Marriage
+1333,Delaware,6.5,2000,Marriage
+1334,District of Columbia,4.9,2000,Marriage
+1335,Florida,8.9,2000,Marriage
+1336,Georgia,6.8,2000,Marriage
+1337,Hawaii,20.6,2000,Marriage
+1338,Idaho,10.8,2000,Marriage
+1339,Illinois,6.9,2000,Marriage
+1340,Indiana,7.9,2000,Marriage
+1341,Iowa,6.9,2000,Marriage
+1342,Kansas,8.3,2000,Marriage
+1343,Kentucky,9.8,2000,Marriage
+1344,Louisiana,9.1,2000,Marriage
+1345,Maine,8.8,2000,Marriage
+1346,Maryland,7.5,2000,Marriage
+1347,Massachusetts,5.8,2000,Marriage
+1348,Michigan,6.7,2000,Marriage
+1349,Minnesota,6.8,2000,Marriage
+1350,Mississippi,6.9,2000,Marriage
+1351,Missouri,7.8,2000,Marriage
+1352,Montana,7.3,2000,Marriage
+1353,Nebraska,7.6,2000,Marriage
+1354,Nevada,72.2,2000,Marriage
+1355,New Hampshire,9.4,2000,Marriage
+1356,New Jersey,6.0,2000,Marriage
+1357,New Mexico,8.0,2000,Marriage
+1358,New York,7.1,2000,Marriage
+1359,North Carolina,8.2,2000,Marriage
+1360,North Dakota,7.2,2000,Marriage
+1361,Ohio,7.8,2000,Marriage
+1362,Oklahoma,,2000,Marriage
+1363,Oregon,7.6,2000,Marriage
+1364,Pennsylvania,6.0,2000,Marriage
+1365,Rhode Island,7.6,2000,Marriage
+1366,South Carolina,10.6,2000,Marriage
+1367,South Dakota,9.4,2000,Marriage
+1368,Tennessee,15.5,2000,Marriage
+1369,Texas,9.4,2000,Marriage
+1370,Utah,10.8,2000,Marriage
+1371,Vermont,10.0,2000,Marriage
+1372,Virginia,8.8,2000,Marriage
+1373,Washington,6.9,2000,Marriage
+1374,West Virginia,8.7,2000,Marriage
+1375,Wisconsin,6.7,2000,Marriage
+1376,Wyoming,10.0,2000,Marriage
+1377,Alabama,10.8,1999,Marriage
+1378,Alaska,8.6,1999,Marriage
+1379,Arizona,8.2,1999,Marriage
+1380,Arkansas,14.8,1999,Marriage
+1381,California,6.4,1999,Marriage
+1382,Colorado,8.2,1999,Marriage
+1383,Connecticut,5.8,1999,Marriage
+1384,Delaware,6.7,1999,Marriage
+1385,District of Columbia,6.6,1999,Marriage
+1386,Florida,8.7,1999,Marriage
+1387,Georgia,7.8,1999,Marriage
+1388,Hawaii,18.9,1999,Marriage
+1389,Idaho,12.1,1999,Marriage
+1390,Illinois,7.0,1999,Marriage
+1391,Indiana,8.1,1999,Marriage
+1392,Iowa,7.9,1999,Marriage
+1393,Kansas,7.1,1999,Marriage
+1394,Kentucky,10.9,1999,Marriage
+1395,Louisiana,9.1,1999,Marriage
+1396,Maine,8.6,1999,Marriage
+1397,Maryland,7.5,1999,Marriage
+1398,Massachusetts,6.2,1999,Marriage
+1399,Michigan,6.8,1999,Marriage
+1400,Minnesota,6.8,1999,Marriage
+1401,Mississippi,7.8,1999,Marriage
+1402,Missouri,8.1,1999,Marriage
+1403,Montana,7.4,1999,Marriage
+1404,Nebraska,7.5,1999,Marriage
+1405,Nevada,82.3,1999,Marriage
+1406,New Hampshire,7.9,1999,Marriage
+1407,New Jersey,5.9,1999,Marriage
+1408,New Mexico,8.0,1999,Marriage
+1409,New York,7.3,1999,Marriage
+1410,North Carolina,8.5,1999,Marriage
+1411,North Dakota,6.6,1999,Marriage
+1412,Ohio,7.8,1999,Marriage
+1413,Oklahoma,6.8,1999,Marriage
+1414,Oregon,7.6,1999,Marriage
+1415,Pennsylvania,6.1,1999,Marriage
+1416,Rhode Island,7.5,1999,Marriage
+1417,South Carolina,10.2,1999,Marriage
+1418,South Dakota,9.1,1999,Marriage
+1419,Tennessee,14.7,1999,Marriage
+1420,Texas,9.1,1999,Marriage
+1421,Utah,9.6,1999,Marriage
+1422,Vermont,10.0,1999,Marriage
+1423,Virginia,9.2,1999,Marriage
+1424,Washington,7.2,1999,Marriage
+1425,West Virginia,7.5,1999,Marriage
+1426,Wisconsin,6.7,1999,Marriage
+1427,Wyoming,9.9,1999,Marriage
+1428,Alabama,9.8,1995,Marriage
+1429,Alaska,9.0,1995,Marriage
+1430,Arizona,8.8,1995,Marriage
+1431,Arkansas,14.4,1995,Marriage
+1432,California,6.3,1995,Marriage
+1433,Colorado,9.0,1995,Marriage
+1434,Connecticut,6.6,1995,Marriage
+1435,Delaware,7.3,1995,Marriage
+1436,District of Columbia,6.1,1995,Marriage
+1437,Florida,9.9,1995,Marriage
+1438,Georgia,8.4,1995,Marriage
+1439,Hawaii,15.7,1995,Marriage
+1440,Idaho,13.1,1995,Marriage
+1441,Illinois,6.9,1995,Marriage
+1442,Indiana,8.6,1995,Marriage
+1443,Iowa,7.7,1995,Marriage
+1444,Kansas,8.5,1995,Marriage
+1445,Kentucky,12.2,1995,Marriage
+1446,Louisiana,9.3,1995,Marriage
+1447,Maine,8.7,1995,Marriage
+1448,Maryland,8.4,1995,Marriage
+1449,Massachusetts,7.1,1995,Marriage
+1450,Michigan,7.3,1995,Marriage
+1451,Minnesota,7.0,1995,Marriage
+1452,Mississippi,7.9,1995,Marriage
+1453,Missouri,8.3,1995,Marriage
+1454,Montana,7.6,1995,Marriage
+1455,Nebraska,7.3,1995,Marriage
+1456,Nevada,85.2,1995,Marriage
+1457,New Hampshire,8.3,1995,Marriage
+1458,New Jersey,6.5,1995,Marriage
+1459,New Mexico,8.8,1995,Marriage
+1460,New York,8.0,1995,Marriage
+1461,North Carolina,8.4,1995,Marriage
+1462,North Dakota,7.1,1995,Marriage
+1463,Ohio,8.0,1995,Marriage
+1464,Oklahoma,8.6,1995,Marriage
+1465,Oregon,8.1,1995,Marriage
+1466,Pennsylvania,6.2,1995,Marriage
+1467,Rhode Island,7.3,1995,Marriage
+1468,South Carolina,11.9,1995,Marriage
+1469,South Dakota,9.9,1995,Marriage
+1470,Tennessee,15.5,1995,Marriage
+1471,Texas,9.9,1995,Marriage
+1472,Utah,10.7,1995,Marriage
+1473,Vermont,10.3,1995,Marriage
+1474,Virginia,10.2,1995,Marriage
+1475,Washington,7.7,1995,Marriage
+1476,West Virginia,6.1,1995,Marriage
+1477,Wisconsin,7.0,1995,Marriage
+1478,Wyoming,10.6,1995,Marriage
+1479,Alabama,10.6,1990,Marriage
+1480,Alaska,10.2,1990,Marriage
+1481,Arizona,10.0,1990,Marriage
+1482,Arkansas,15.3,1990,Marriage
+1483,California,7.9,1990,Marriage
+1484,Colorado,9.8,1990,Marriage
+1485,Connecticut,7.9,1990,Marriage
+1486,Delaware,8.4,1990,Marriage
+1487,District of Columbia,8.2,1990,Marriage
+1488,Florida,10.9,1990,Marriage
+1489,Georgia,10.3,1990,Marriage
+1490,Hawaii,16.4,1990,Marriage
+1491,Idaho,13.9,1990,Marriage
+1492,Illinois,8.8,1990,Marriage
+1493,Indiana,9.6,1990,Marriage
+1494,Iowa,9.0,1990,Marriage
+1495,Kansas,9.2,1990,Marriage
+1496,Kentucky,13.5,1990,Marriage
+1497,Louisiana,9.6,1990,Marriage
+1498,Maine,9.7,1990,Marriage
+1499,Maryland,9.7,1990,Marriage
+1500,Massachusetts,7.9,1990,Marriage
+1501,Michigan,8.2,1990,Marriage
+1502,Minnesota,7.7,1990,Marriage
+1503,Mississippi,9.4,1990,Marriage
+1504,Missouri,9.6,1990,Marriage
+1505,Montana,8.6,1990,Marriage
+1506,Nebraska,8.0,1990,Marriage
+1507,Nevada,99.0,1990,Marriage
+1508,New Hampshire,9.5,1990,Marriage
+1509,New Jersey,7.6,1990,Marriage
+1510,New Mexico,8.8,1990,Marriage
+1511,New York,8.6,1990,Marriage
+1512,North Carolina,7.8,1990,Marriage
+1513,North Dakota,7.5,1990,Marriage
+1514,Ohio,9.0,1990,Marriage
+1515,Oklahoma,10.6,1990,Marriage
+1516,Oregon,8.9,1990,Marriage
+1517,Pennsylvania,7.1,1990,Marriage
+1518,Rhode Island,8.1,1990,Marriage
+1519,South Carolina,15.9,1990,Marriage
+1520,South Dakota,11.1,1990,Marriage
+1521,Tennessee,13.9,1990,Marriage
+1522,Texas,10.5,1990,Marriage
+1523,Utah,11.2,1990,Marriage
+1524,Vermont,10.9,1990,Marriage
+1525,Virginia,11.4,1990,Marriage
+1526,Washington,9.5,1990,Marriage
+1527,West Virginia,7.2,1990,Marriage
+1528,Wisconsin,7.9,1990,Marriage
+1529,Wyoming,10.7,1990,Marriage

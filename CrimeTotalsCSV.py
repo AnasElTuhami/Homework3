@@ -7,6 +7,6 @@ df = pd.read_csv('CrimeTotals.csv')
 reshape = pd.melt(df,id_vars=['Region', 'Division', 'State'],var_name='Year', value_name='Total')
 
 #produce a csv file of the 'reshape' output
-reshape.to_csv('output.csv')
+reshape.to_csv('Crime_output.csv')
 
 print("Output file created.")
